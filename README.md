@@ -1,0 +1,2 @@
+# ccf_bdci_2019_negative_entity_baseline
+CCF BDCI 2019 金融信息负面及主体判定baseline：以ABSA的方式做
